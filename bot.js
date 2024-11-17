@@ -41,10 +41,10 @@ const client = new Client({
     ],
     presence: {
         activities: [{
-            name: `Status Role - dsc.gg/xendev`,
+            name: `Status Role - dsc.gg/4uwhispers`,
             type: "PLAYING",
         }],
-        status: "online"
+        status: "idle"
     }
 });
 
